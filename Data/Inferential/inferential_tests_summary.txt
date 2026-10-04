@@ -1,0 +1,10 @@
+Paired error test (Additive vs Composite_Min_Add, n=60):
+Additive MAE = 0.0577; Composite MAE = 0.0404
+Mean paired difference (Additive - Composite) = 0.0173, SD = 0.0482
+Paired t-test: t(59) = 2.7800, p = 0.0073
+Wilcoxon signed-rank (primary; normality violated): W = 583.5, p = 0.0147
+Shapiro-Wilk on differences: W = 0.9260, p = 0.0013
+
+Profile B (n=20): Additive MAE = 0.0860; Composite MAE = 0.0462; Bias Additive = 0.0860; Bias Composite = -0.0462
+
+Lukasiewicz bootstrap: 105/2000 (5.2%) resamples had zero variance (Luk_4D = 0 for 57/60 cases); Pearson r undefined there and those resamples were EXCLUDED. CI is conditional on the 1895 nonconstant resamples and must be interpreted with caution. Mean valid r = 0.3086.
