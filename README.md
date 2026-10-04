@@ -84,6 +84,24 @@
 | **Profile C ($n=20$)** | High Lexico-Grammar, Low Coherence | 0.585 | 0.291 | 0.234 | **0.219** | **62.6%** |
 
 ---
+Merrikhi, P. (2026). Replication Data and Computational Toolkit for Algebraic Aggregation Models in L2 Academic Writing Assessment (Version 1.0) [Data set and software]. Zenodo. https://doi.org/10.5281/zenodo.23131216
+--------------------------------------------------------------------------------------
+BibTeX
+bibtex
+@dataset{merrikhi_2026_zenodo,
+  author       = {Merrikhi, Pegah},
+  title        = {{Replication Data and Computational Toolkit for Algebraic Aggregation Models in L2 Academic Writing Assessment}},
+  month        = oct,
+  year         = 2026,
+  publisher    = {Zenodo},
+  version      = {v1.0},
+  doi          = {10.5281/zenodo.23131216},
+  url          = {https://doi.org/10.5281/zenodo.23131216}
+}
+-------------------------------------------------------------------------------
+License: Distributed under the Creative Commons Attribution 4.0 International (CC BY 4.0) License.
+---------------------------------------------------------------------------------------------------------------
+text
 
 ## 📂 Repository Tree Structure
 ```text
