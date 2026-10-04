@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this software or replication dataset, please cite it as below."
+authors:
+  - family-names: Merrikhi
+    given-names: Pegah
+    orcid: "https://orcid.org/0009-0002-3904-7497"
+    email: pegah.merrikhiii@gmail.com
+title: "Replication Data and Computational Toolkit for Algebraic Aggregation Models in L2 Academic Writing Assessment"
+version: 1.0.0
+doi: 10.5281/zenodo.23131216
+date-released: 2026-10-04
+url: "https://github.com/Pegi1727/algebraic-aggregation-l2-writing"
+repository-code: "https://github.com/Pegi1727/algebraic-aggregation-l2-writing"
+keywords:
+  - "L2 writing assessment"
+  - "Many-Valued Logic"
+  - "FLew-algebras"
+  - "non-compensatory scoring"
+  - "t-norms"
+  - "rubric aggregation"
+license: CC-BY-4.0
