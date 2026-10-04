@@ -1,0 +1,13 @@
+Profile,Model,N,MAE,RMSE,Mean_Bias,Pearson_r,Spearman_rho
+A,Additive,20,0.078,0.0804,0.078,0.9204,0.8832
+A,Godel_Min,20,0.236,0.2423,-0.236,0.2487,0.2421
+A,Lukasiewicz_4D,20,0.62,0.6212,-0.62,0.5904,0.6226
+A,Composite_Min_Add,20,0.067,0.0722,-0.067,0.8254,0.8088
+B,Additive,20,0.086,0.087,0.086,0.9898,0.9857
+B,Godel_Min,20,0.1495,0.1505,-0.1495,0.9715,0.977
+B,Lukasiewicz_4D,20,0.545,0.5484,-0.545,Degenerate,Degenerate
+B,Composite_Min_Add,20,0.0152,0.0191,0.0142,0.9801,0.974
+C,Additive,20,0.0091,0.0124,0.0089,0.986,0.9913
+C,Godel_Min,20,0.045,0.0459,-0.045,0.9835,0.9891
+C,Lukasiewicz_4D,20,0.3375,0.3413,-0.3375,Degenerate,Degenerate
+C,Composite_Min_Add,20,0.0065,0.0088,0.005,0.9898,0.9955
